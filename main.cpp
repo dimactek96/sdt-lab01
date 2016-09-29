@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Это учебная демо версия!
 int main()
 {
 int a, b;
